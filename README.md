@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="www.linkedin.com/in/amirhosein-rajaeezadeh-77b080219" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="[www.linkedin.com/in/amirhosein-rajaeezadeh-77b080219/](https://www.linkedin.com/in/amirhosein-rajaeezadeh-77b080219/)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/14976321/amirhossein" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/dev_amir83/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
@@ -22,7 +22,7 @@
   📚 I’m currently deep learning Flutter and its new and useful technolegies✨  
   <br>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/amir-hossein-rajaezadeh/amir-hossein-rajaezadeh/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="email: rajaee.dev@gmail.com">rajaee.dev@gmail.com</a>
 </p>
