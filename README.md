@@ -90,17 +90,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/amir-hossein-rajaezadeh/flutter_bank" title="Flutter Bank"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=flutter_bank&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/amir-hossein-rajaezadeh/flutter_nft_market" title="Flutter NFT Market"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=flutter_nft_market&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/amir-hossein-rajaezadeh/flutter_bank" title="Flutter Bank"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=flutter_bank&theme=react&border_color=61dafb&border_radius=16"></a><a align="right" href="https://github.com/amir-hossein-rajaezadeh/flutter_nft_market" title="Flutter NFT Market"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=flutter_nft_market&theme=react&border_color=61dafb&border_radius=16"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/amir-hossein-rajaezadeh/FlutterBakery" title="Flutter Bakery"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=FlutterBakery&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/amir-hossein-rajaezadeh/flutter_page_peel_swip" title="Flutter Page Peel Swip"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=flutter_page_peel_swip&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/amir-hossein-rajaezadeh/FlutterBakery" title="Flutter Bakery"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=FlutterBakery&theme=react&border_color=61dafb&border_radius=16"></a>
+  <a align="right" href="https://github.com/amir-hossein-rajaezadeh/flutter_page_peel_swip" title="Flutter Page Peel Swip"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=flutter_page_peel_swip&theme=react&border_color=61dafb&border_radius=16"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/amir-hossein-rajaezadeh/shopping_item_animation" title="Flutter Shopping Item"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=shopping_item_animation&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/amir-hossein-rajaezadeh/flutter_clock_app" title="Flutter Clock"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=flutter_clock_app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/amir-hossein-rajaezadeh/shopping_item_animation" title="Flutter Shopping Item"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=shopping_item_animation&theme=react&border_color=61dafb&border_radius=16"></a>
+  <a align="right" href="https://github.com/amir-hossein-rajaezadeh/flutter_clock_app" title="Flutter Clock"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amir-hossein-rajaezadeh&repo=flutter_clock_app&theme=react&border_color=61dafb&border_radius=16"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
